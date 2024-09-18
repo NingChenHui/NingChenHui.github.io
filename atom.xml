@@ -26,6 +26,8 @@
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOm5jaDIxQG1haWxzLnRzaW5naHVhLmVkdS5jbg==&#34;&gt;nch21@mails.tsinghua.edu.cn&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
 &lt;p&gt;Sea ice models characterize the dynamic and thermodynamic process of the sea ice, as well as the coupling with the polar atmosphere and ocean. Multi-scale, fractal sea ice dynamic processes and deformations can be simulated with current rheology models such as Viscous-Plastic. However, most models are based on Eulerian grids, and the model output cannot directly reflect the temporal scaling of sea ice deformations. Therefore, we design and implement an online tracking module for Lagrangian points in the sea ice model of Community Ice CodE (CICE, version 5). The Lagrangian tracking scheme is validated at the resolution of 1° and 0.15°. The lifecycle of Lagrangian points under normal-year forcing mainly consists of two characteristics: (1) a considerable portion of the loss through the advection from the Fram Strait; (2) surviving points circulating within the Beaufort Gyre. Furthermore, historical simulation result is compared with the observational dataset of buoys for the period between 1979 and 2001. With the 0.15° (7km-resolution in the Arctic) run, we evaluate the temporal-spatial scaling analysis of sea ice deformations. We find that model can reproduce the spatial and temporal scaling law as well as the temporal-spatial coupling, mostly exhibiting the power law relationship. One exception is the logarithm-quadratic relationship between spatial scaling curvature and temporal scales. We further propose a unified perspective on temporal-spatial coupling. However, the scaling law represented by the model is still weak compared with the observation, which indicates future improvement that are needed, including: the numerical simulation, the dynamics component of the model such as the sea ice rheology.&lt;/p&gt;
+&lt;p&gt;Paper:&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2R4LmRvaS5vcmcvMTAuNTE5NC9nbWQtMTctNjg0Ny0yMDI0&#34;&gt;http://dx.doi.org/10.5194/gmd-17-6847-2024&lt;/span&gt;&lt;/p&gt;
 </content>
         <updated>2023-12-12T11:19:13.000Z</updated>
     </entry>
@@ -379,12 +381,16 @@ Then just following [6].&lt;/p&gt;
         <title>近日动态·Recent News</title>
         <link rel="alternate" href="https://ningchenhui.github.io/news/"/>
         <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024.09.18&lt;/strong&gt; Adding OMARE topography and sea-ice model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024.09.13&lt;/strong&gt; New GMD &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2R4LmRvaS5vcmcvMTAuNTE5NC9nbWQtMTctNjg0Ny0yMDI0&#34;&gt;paper&lt;/span&gt; published.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2023.06.14&lt;/strong&gt; Attending &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5hcGVjcy50b3AvZ2JfbmV3cy5waHA/bW9kaWQ9MTYwMDImaWQ9MTM2MTI0&#34;&gt;China Polar Youth Forum&lt;/span&gt;  at Beijing.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2023.05.07&lt;/strong&gt; Attending &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5xbmR4bHQuY29tL2luZGV4Lmh0bWw=&#34;&gt;China Youth Geoscience Forum&lt;/span&gt; at Wuhan.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2023.01.30&lt;/strong&gt; Team’s GMD &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nbWQuY29wZXJuaWN1cy5vcmcvYXJ0aWNsZXMvMTYvNjc5LzIwMjMv&#34;&gt;paper&lt;/span&gt; was published.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2022.09.01&lt;/strong&gt; Testing OMARE Overlay.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2022.08.29&lt;/strong&gt; OMARE organization on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL09NQVJFLUNvbW11bml0eQ==&#34;&gt;Github&lt;/span&gt; registered.&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;!--**2022.06.28** Team&#39;s GMD paper was posted as [preprint](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-510/#discussion).--&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+&lt;!-- **2022.09.01** Testing OMARE Overlay.
+- **2022.08.29** OMARE organization on [Github](https://github.com/OMARE-Community) registered.
+&lt;!--**2022.06.28** Team&#39;s GMD paper was posted as [preprint](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-510/#discussion).--&gt;
 &lt;!--- - **2022.06.20** Add overlay function for OMARE.
  **2022.04.30** Successfully installed NEMO.
 **2022.04.10** Now building this website.
